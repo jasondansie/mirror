@@ -1,0 +1,54 @@
+
+/* Primary Styles
+---------------------------------*/
+body {	
+    font-family: avenir-lt-w01_85-heavy1475544sans-serif;
+    font-size:14px;
+    font-weight:normal;	
+}
+.gc-gray-bg{
+    background-color: rgba(43, 43, 43, 1);
+}
+.gc-black-bg{
+    background-color: rgba(51, 50, 50, 1);
+}
+.gc-gold{
+    color:#E0A53A;
+}
+.gc-gold-bg{
+    background-color: #E0A53A;
+}
+.gc-font{
+    font-family: avenir-lt-w01_85-heavy1475544sans-serif;
+}
+
+
+
+
+.carousel{
+    width: 100%;
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+  overflow: hidden;
+}
+
+
+
+/* Paralax scrolling */
+
+.gc-paralax {
+  
+  position: relative; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+.row:before, .row:after {
+display: flex !important;
+}
