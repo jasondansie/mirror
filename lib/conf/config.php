@@ -5,8 +5,8 @@
  
  // Database Settings
  define('SITEDB_DATABASE','goodcall_main');
- define('SITEDB_USERNAME','goodcall');
- define('SITEDB_PASSWORD','CFz@eVEo*Q');
+ define('SITEDB_USERNAME','toot');
+ define('SITEDB_PASSWORD','toober');
  define('SITEDB_HOSTNAME','localhost');
   
  // Data connection
